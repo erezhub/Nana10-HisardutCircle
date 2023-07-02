@@ -1,0 +1,217 @@
+<root>
+	<episode order="10" date="11/4/2011" >
+		<tribe id="1" vetoFrom="6" vetoTo="8" statue="3" necklace="0" active="true" outcasted="6" >
+			<member id="2" votedTo="6" />
+			<member id="3" votedTo="0" />
+			<member id="6" votedTo="2" />
+			<member id="8" votedTo="6" />
+			<member id="9" votedTo="6" />
+		</tribe>
+		<tribe id="2" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="13" votedTo="0" />
+			<member id="14" votedTo="0" />
+			<member id="16" votedTo="0" />
+			<member id="17" votedTo="0" />
+			<member id="18" votedTo="0" />
+			<member id="20" votedTo="0" />
+		</tribe>
+	</episode>
+	<episode order="1" date="14/2/2011" >
+		<tribe id="1" vetoFrom="0" vetoTo="0" statue="3" necklace="0" active="true" outcasted="1" >
+			<member id="1" votedTo="2" />
+			<member id="2" votedTo="1" />
+			<member id="3" votedTo="4" />
+			<member id="4" votedTo="5" />
+			<member id="5" votedTo="1" />
+			<member id="6" votedTo="7" />
+			<member id="7" votedTo="9" />
+			<member id="8" votedTo="1" />
+			<member id="9" votedTo="4" />
+			<member id="10" votedTo="8" />
+		</tribe>
+		<tribe id="2" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="11" votedTo="0" />
+			<member id="12" votedTo="0" />
+			<member id="13" votedTo="0" />
+			<member id="14" votedTo="0" />
+			<member id="15" votedTo="0" />
+			<member id="16" votedTo="0" />
+			<member id="17" votedTo="0" />
+			<member id="18" votedTo="0" />
+			<member id="19" votedTo="0" />
+			<member id="20" votedTo="0" />
+		</tribe>
+	</episode>
+	<episode order="2" date="21/2/2011" >
+		<tribe id="1" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="2" votedTo="1" />
+			<member id="3" votedTo="4" />
+			<member id="4" votedTo="5" />
+			<member id="5" votedTo="1" />
+			<member id="6" votedTo="7" />
+			<member id="7" votedTo="9" />
+			<member id="8" votedTo="1" />
+			<member id="9" votedTo="4" />
+			<member id="10" votedTo="8" />
+		</tribe>
+		<tribe id="2" vetoFrom="12" vetoTo="13" statue="14" necklace="0" active="true" outcasted="11" >
+			<member id="11" votedTo="16" />
+			<member id="12" votedTo="17" />
+			<member id="13" votedTo="20" />
+			<member id="14" votedTo="11" />
+			<member id="15" votedTo="11" />
+			<member id="16" votedTo="13" />
+			<member id="17" votedTo="11" />
+			<member id="18" votedTo="20" />
+			<member id="19" votedTo="11" />
+			<member id="20" votedTo="17" />
+		</tribe>
+	</episode>
+	<episode order="3" date="28/2/2011" >
+		<tribe id="1" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="2" votedTo="0" />
+			<member id="3" votedTo="0" />
+			<member id="4" votedTo="0" />
+			<member id="5" votedTo="0" />
+			<member id="6" votedTo="0" />
+			<member id="7" votedTo="0" />
+			<member id="8" votedTo="0" />
+			<member id="9" votedTo="0" />
+			<member id="10" votedTo="0" />
+		</tribe>
+		<tribe id="2" vetoFrom="14" vetoTo="17" statue="12" necklace="0" active="true" outcasted="15" >
+			<member id="12" votedTo="15" />
+			<member id="13" votedTo="18" />
+			<member id="14" votedTo="16" />
+			<member id="15" votedTo="14" />
+			<member id="16" votedTo="15" />
+			<member id="17" votedTo="15" />
+			<member id="18" votedTo="20" />
+			<member id="19" votedTo="18" />
+			<member id="20" votedTo="15" />
+		</tribe>
+	</episode>
+	<episode order="4" date="7/3/2011" >
+		<tribe id="1" vetoFrom="7" vetoTo="4" statue="9" necklace="0" active="true" outcasted="5" >
+			<member id="2" votedTo="5" />
+			<member id="3" votedTo="5" />
+			<member id="4" votedTo="7" />
+			<member id="5" votedTo="2" />
+			<member id="6" votedTo="10" />
+			<member id="7" votedTo="5" />
+			<member id="8" votedTo="2" />
+			<member id="9" votedTo="8" />
+			<member id="10" votedTo="5" />
+		</tribe>
+		<tribe id="2" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="12" votedTo="0" />
+			<member id="13" votedTo="0" />
+			<member id="14" votedTo="0" />
+			<member id="16" votedTo="0" />
+			<member id="17" votedTo="0" />
+			<member id="18" votedTo="0" />
+			<member id="19" votedTo="0" />
+			<member id="20" votedTo="0" />
+		</tribe>
+	</episode>
+	<episode order="5" date="14/3/2011" >
+		<tribe id="1" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="2" votedTo="0" />
+			<member id="3" votedTo="0" />
+			<member id="4" votedTo="0" />
+			<member id="6" votedTo="0" />
+			<member id="7" votedTo="0" />
+			<member id="8" votedTo="0" />
+			<member id="9" votedTo="0" />
+			<member id="10" votedTo="0" />
+		</tribe>
+		<tribe id="2" vetoFrom="18" vetoTo="17" statue="16" necklace="14" active="true" outcasted="19" >
+			<member id="12" votedTo="19" />
+			<member id="13" votedTo="17" />
+			<member id="14" votedTo="13" />
+			<member id="16" votedTo="19" />
+			<member id="17" votedTo="18" />
+			<member id="18" votedTo="19" />
+			<member id="19" votedTo="0" />
+			<member id="20" votedTo="12" />
+		</tribe>
+	</episode>
+	<episode order="6" date="21/3/2011" >
+		<tribe id="1" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="2" votedTo="0" />
+			<member id="3" votedTo="0" />
+			<member id="4" votedTo="0" />
+			<member id="6" votedTo="0" />
+			<member id="7" votedTo="0" />
+			<member id="8" votedTo="0" />
+			<member id="9" votedTo="0" />
+			<member id="10" votedTo="0" />
+		</tribe>
+		<tribe id="2" vetoFrom="14" vetoTo="20" statue="0" necklace="0" active="true" outcasted="12" >
+			<member id="12" votedTo="17" />
+			<member id="13" votedTo="20" />
+			<member id="14" votedTo="12" />
+			<member id="16" votedTo="12" />
+			<member id="17" votedTo="14" />
+			<member id="18" votedTo="12" />
+			<member id="20" votedTo="18" />
+		</tribe>
+	</episode>
+	<episode order="7" date="21/3/2011" >
+		<tribe id="1" vetoFrom="6" vetoTo="3" statue="9" necklace="0" active="true" outcasted="7" >
+			<member id="2" votedTo="7" />
+			<member id="3" votedTo="7" />
+			<member id="4" votedTo="8" />
+			<member id="6" votedTo="7" />
+			<member id="7" votedTo="2" />
+			<member id="8" votedTo="4" />
+			<member id="9" votedTo="3" />
+		</tribe>
+		<tribe id="2" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="10" votedTo="0" />
+			<member id="13" votedTo="0" />
+			<member id="14" votedTo="0" />
+			<member id="16" votedTo="0" />
+			<member id="17" votedTo="0" />
+			<member id="18" votedTo="0" />
+			<member id="20" votedTo="0" />
+		</tribe>
+	</episode>
+	<episode order="8" date="28/3/2011" >
+		<tribe id="1" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="2" votedTo="0" />
+			<member id="3" votedTo="0" />
+			<member id="4" votedTo="0" />
+			<member id="6" votedTo="0" />
+			<member id="8" votedTo="0" />
+			<member id="9" votedTo="0" />
+		</tribe>
+		<tribe id="2" vetoFrom="13" vetoTo="16" statue="18" necklace="0" active="true" outcasted="10" >
+			<member id="10" votedTo="20" />
+			<member id="13" votedTo="17" />
+			<member id="14" votedTo="10" />
+			<member id="16" votedTo="14" />
+			<member id="17" votedTo="10" />
+			<member id="18" votedTo="10" />
+			<member id="20" votedTo="14" />
+		</tribe>
+	</episode>
+	<episode order="9" date="4/4/2011" >
+		<tribe id="1" vetoFrom="6" vetoTo="8" statue="2" necklace="0" active="true" outcasted="4" >
+			<member id="2" votedTo="4" />
+			<member id="3" votedTo="8" />
+			<member id="4" votedTo="9" />
+			<member id="6" votedTo="4" />
+			<member id="8" votedTo="3" />
+			<member id="9" votedTo="4" />
+		</tribe>
+		<tribe id="2" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="13" votedTo="0" />
+			<member id="14" votedTo="0" />
+			<member id="16" votedTo="0" />
+			<member id="17" votedTo="0" />
+			<member id="18" votedTo="0" />
+			<member id="20" votedTo="0" />
+		</tribe>
+	</episode>
+</root>

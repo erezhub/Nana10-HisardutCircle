@@ -1,0 +1,28 @@
+<root>
+	<episode order="1" date="14/2/2011" >
+		<tribe id="1" vetoFrom="0" vetoTo="0" statue="3" necklace="0" active="true" outcasted="1" >
+			<member id="1" votedTo="2" />
+			<member id="2" votedTo="1" />
+			<member id="3" votedTo="4" />
+			<member id="4" votedTo="5" />
+			<member id="5" votedTo="1" />
+			<member id="6" votedTo="7" />
+			<member id="7" votedTo="9" />
+			<member id="8" votedTo="1" />
+			<member id="9" votedTo="4" />
+			<member id="10" votedTo="8" />
+		</tribe>
+		<tribe id="2" vetoFrom="0" vetoTo="0" statue="0" necklace="0" active="false" outcasted="0" >
+			<member id="11" votedTo="0" />
+			<member id="12" votedTo="0" />
+			<member id="13" votedTo="0" />
+			<member id="14" votedTo="0" />
+			<member id="15" votedTo="0" />
+			<member id="16" votedTo="0" />
+			<member id="17" votedTo="0" />
+			<member id="18" votedTo="0" />
+			<member id="19" votedTo="0" />
+			<member id="20" votedTo="0" />
+		</tribe>
+	</episode>
+</root>
